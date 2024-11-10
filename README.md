@@ -139,7 +139,7 @@
 </div>
 
 <p align="center">
-  <a href="https://twitter.com/iztoxyoxy">
+  <a href="https://twitter.com/baoanh_177">
     <img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60">
   </a>
   <a href="https://www.facebook.com/profile.php?id=100088917412737">
