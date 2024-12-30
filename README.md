@@ -75,10 +75,10 @@
   <table border=0 rules=none frame=void>
     <tr>
       <td align=center>
-          <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=baoanh177&theme=tokyonight&hide_border=true" alt="GitHub Streak" height=200/></a>
+          <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=baoanh177&theme=tokyonight&hide_border=true" alt="GitHub Streak"/></a>
       </td>
       <td align=center>
-          <img src="https://github-readme-stats.vercel.app/api?username=baoanh177&show_icons=true&theme=tokyonight&title_color=2f80ed&text_color=fff&hide_border=true&icon_color=2f80ed&custom_title=" height=200 alt="piyush-stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=baoanh177&show_icons=true&theme=tokyonight&title_color=2f80ed&text_color=fff&hide_border=true&icon_color=2f80ed&custom_title=" alt="piyush-stats" />
       </td>
     </tr>
     <tr>
