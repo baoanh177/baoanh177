@@ -6,7 +6,7 @@
 
 <!-- <h3 align="center">A Front-End Developer from VietNam, currently working as a Front-End Developer with proficiency in Typescript, React and Next technologies.</h3> -->
 
-### 🛠️ Skills:
+<!-- ### 🛠️ Skills: -->
 
 <table width=100%>
   <tr width=100%>
@@ -69,9 +69,9 @@
   </tr>
 </table>
 
-### 📝 Stats:
+<!-- ### 📝 Stats:
 
-  <img src="https://wakatime.com/badge/user/ed88f1d0-5c2c-48d4-9e3c-6fc619f952b1.svg" alt=""/>
+  <img src="https://wakatime.com/badge/user/ed88f1d0-5c2c-48d4-9e3c-6fc619f952b1.svg" alt=""/> -->
   <table border=0 rules=none frame=void>
     <tr>
       <td align=center>
