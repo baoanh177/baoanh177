@@ -92,7 +92,7 @@
     </tr>
   </table>
 
-<p align="center">
+<!--  <p align="center">
   <a href="https://twitter.com/baoanh_177">
     <img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60">
   </a>
@@ -102,4 +102,4 @@
   <a href="https://www.instagram.com/baoah_2704/">
     <img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60">
   </a>
-</p>
+</p> -->
